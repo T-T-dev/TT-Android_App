@@ -1,0 +1,88 @@
+
+B38/B48/B58 mini( and s-drive BMWs) – F chassis
+<FFFF06>
+3 
+0
+4
+5
+6
+
+G chassis, Supra, and Z4
+<FFFF02>
+3
+3.5
+4
+0
+0
+
+N20
+<FFFF02>
+3
+3.5
+4
+0
+0
+
+N55
+<FFFF02>
+3
+0
+4
+4.5
+0
+
+S55
+<FFFF02>
+3
+3.5
+4
+0
+0
+
+S58: M2/m3/M4 x3M/x4m
+<FFFF02>
+3
+3.5
+4
+5
+6
+
+F body N63:
+<FFFF04>
+3
+0
+4
+0
+6
+
+F body n63TU:
+<FFFF04>
+0
+0
+0
+5
+6
+
+G body N63R
+<FFFF04>
+0
+0
+4
+5
+0
+
+F10 S63tu
+<FFFF04>
+3
+3.5
+4
+0
+0
+
+F9x m5/m8 S63R
+<FFFF04>
+3
+0
+4
+0
+0
