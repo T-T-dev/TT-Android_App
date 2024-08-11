@@ -1,1 +1,104 @@
+{
+  "carModels": [
+    {
+      "name": "B38/B48/B58 mini( and s-drive BMWs) – F chassis",
+      "code": "FFFF06",
+      "firstVal": 3,
+      "secondVal": 0,
+      "thirdVal": 4,
+      "fourthVal": 5,
+      "fifthVal": 6
+    },
+    {
+      "name": "G chassis, Supra, and Z4",
+      "code": "FFFF02",
+      "firstVal": 3,
+      "secondVal": 3.5,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 0
+    },
+    {
+      "name": "N20",
+      "code": "FFFF02",
+      "firstVal": 3,
+      "secondVal": 3.5,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 0
+    },
+    {
+      "name": "N55",
+      "code": "FFFF02",
+      "firstVal": 3,
+      "secondVal": 0,
+      "thirdVal": 4,
+      "fourthVal": 4.5,
+      "fifthVal": 0
+    },
+    {
+      "name": "S55",
+      "code": "FFFF02",
+      "firstVal": 3,
+      "secondVal": 3.5,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 0
+    },
+    {
+      "name": "S58: M2/m3/M4 x3M/x4m",
+      "code": "FFFF02",
+      "firstVal": 3,
+      "secondVal": 3.5,
+      "thirdVal": 4,
+      "fourthVal": 5,
+      "fifthVal": 6
+    },
+    {
+      "name": "F body N63",
+      "code": "FFFF04",
+      "firstVal": 3,
+      "secondVal": 0,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 6
+    },
+    {
+      "name": "F body n63TU",
+      "code": "FFFF04",
+      "firstVal": 0,
+      "secondVal": 0,
+      "thirdVal": 0,
+      "fourthVal": 5,
+      "fifthVal": 6
+    },
+    {
+      "name": "G body N63R",
+      "code": "FFFF04",
+      "firstVal": 0,
+      "secondVal": 0,
+      "thirdVal": 4,
+      "fourthVal": 5,
+      "fifthVal": 0
+    },
+    {
+      "name": "F10 S63tu",
+      "code": "FFFF04",
+      "firstVal": 3,
+      "secondVal": 3.5,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 0
+    },
+    {
+      "name": "F9x m5/m8 S63R",
+      "code": "FFFF04",
+      "firstVal": 3,
+      "secondVal": 0,
+      "thirdVal": 4,
+      "fourthVal": 0,
+      "fifthVal": 0
+    }
+  ]
+}
 
